@@ -2,11 +2,11 @@
 <h1 align="center">Ola 👋, sou Guilhermo Herter</h1>
 <h3 align="center">Dev Iniciante, com conhecimentos em Back-End e Mobile.</h3>
 
-- 🔭 Engenharia da computação Unisinos**
+- 🔭 Engenharia da computação Unisinos
 
 - 🌱 Estou aprendendo: Java,Python e Swift
 
-- 💬 Pergunte para mim sobreÇ Spring,Flask e Swift
+- 💬 Pergunte para mim sobre: Spring,Flask e Swift
 
 - 📫 Contato guilhermoh@gmail.com
 
