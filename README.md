@@ -4,11 +4,11 @@
 
 - 📍 Moro em: Porto Alegre-RS
 
-- 🔭 Cursando Engenharia da computação na Unisinos Porto Alegre
+- 🔭 Cursando: Engenharia da computação - Unisinos Porto Alegre
 
 - 🚀 Estou aprendendo: Java,Python e Swift
 
-- 🔥 Frameworks e tecnologias: Spring,Flask e Swift.
+- 🔥 Frameworks e tecnologias: Spring,Flask e SwiftUi.
 
 - 🎯 Meu sonho: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade.
 
