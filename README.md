@@ -1,12 +1,16 @@
 
-<h1 align="center">Ola 👋, sou Guilhermo Herter</h1>
+<h1 align="center">Olá 👋, sou Guilhermo Herter</h1>
 <h3 align="center">Dev Iniciante, com conhecimentos em Back-End e Mobile.</h3>
 
-- 🔭 Engenharia da computação Unisinos
+- 📍 Moro em: Porto Alegre-RS
 
-- 🌱 Estou aprendendo: Java,Python e Swift
+- 🔭 Cursando Engenharia da computação na Unisinos Porto Alegre
 
-- 💬 Pergunte para mim sobre: Spring,Flask e Swift
+- 🚀 Estou aprendendo: Java,Python e Swift
+
+- 🔥 Frameworks e tecnologias: Spring,Flask e Swift.
+
+- 🎯 Meu sonho: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade.
 
 - 📫 Contato guilhermoh@gmail.com
 
