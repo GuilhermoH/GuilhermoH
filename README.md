@@ -12,7 +12,7 @@
 
 - 🎯 Meu sonho: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade.
 
-- 📫 Contato guilhermoh@gmail.com
+- 📫 Contato: guilhermoh@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
