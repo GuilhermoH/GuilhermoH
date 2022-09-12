@@ -10,7 +10,7 @@
 
 - 🔥 Frameworks e tecnologias: Spring,Flask e SwiftUi.
 
-- 🎯 Meu sonho: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade.
+- 🎯 Meu objetivo: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade.
 
 - 📫 Contato: guilhermoh@gmail.com
 
