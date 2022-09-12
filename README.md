@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermo-herter-940b051b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilhermo-herter-940b051b4/" height="30" width="40" /></a>
 </p>
-div align="center">
   <a href="https://github.com/GuilhermoH">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoH&layout=compact&langs_count=7&theme=dark"/>
 
@@ -26,6 +25,3 @@ div align="center">
 
 
 
-<div align="center">
-  <a href="https://github.com/GuilhermoH">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoH&layout=compact&langs_count=7&theme=dark"/>
