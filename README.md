@@ -10,20 +10,19 @@
   <img align="center" alt="Guilhermo-Python" height="100" width="200" <img src="https://w7.pngwing.com/pngs/175/775/png-transparent-swift-computer-icons-apple-mobile-app-development-apple-class-rectangle-orange.png"
   />
 <h1 align="center">Ola 👋, sou Guilhermo Herter</h1>
-<h3 align="center">Dev Iniciante, com conhecimentos em Back-End e Mobile</h3>
+<h3 align="center">Dev Iniciante, com conhecimentos em Back-End e Mobile.</h3>
 
 - 🔭 Engenharia da computação **Unisinos**
 
 - 🌱 Estou aprendendo: **Java,Python e Swift**
 
-- 💬 Ask me about **Spring,Flask e Swift**
+- 💬 Pergunte para mim sobreÇ **Spring,Flask e Swift**
 
 - 📫 Contato **guilhermoh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guilhermo herter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermo herter" height="30" width="40" /></a>
-<a href="https://instagram.com/guilhermoherter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guilhermoherter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermo-herter-940b051b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilhermo-herter-940b051b4/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
