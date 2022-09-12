@@ -7,18 +7,17 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilhermo-Python" height="100" width="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guilhermo-Python" height="100" width="200" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Guilhermo-Python" height="100" width="200" <img src="https://w7.pngwing.com/pngs/175/775/png-transparent-swift-computer-icons-apple-mobile-app-development-apple-class-rectangle-orange.png"
-  />
+
 <h1 align="center">Ola 👋, sou Guilhermo Herter</h1>
 <h3 align="center">Dev Iniciante, com conhecimentos em Back-End e Mobile.</h3>
 
-- 🔭 Engenharia da computação **Unisinos**
+- 🔭 Engenharia da computação Unisinos**
 
-- 🌱 Estou aprendendo: **Java,Python e Swift**
+- 🌱 Estou aprendendo: Java,Python e Swift
 
-- 💬 Pergunte para mim sobreÇ **Spring,Flask e Swift**
+- 💬 Pergunte para mim sobreÇ Spring,Flask e Swift
 
-- 📫 Contato **guilhermoh@gmail.com**
+- 📫 Contato guilhermoh@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
