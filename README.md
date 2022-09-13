@@ -6,7 +6,7 @@
 
 - 🔭 Cursando: Engenharia da computação - Unisinos Porto Alegre
 
-- 🚀 Estou aprendendo: Java,Python e Swift
+- 🚀 Estou aprendendo: Java, Python e Swift
 
 - 🔥 Frameworks e tecnologias: Spring,Flask e SwiftUi.
 
