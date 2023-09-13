@@ -4,13 +4,13 @@
 
 - 📍 Moro em: Porto Alegre-RS
 
-- 🔭 Cursando: Engenharia da computação - Unisinos Porto Alegre
+- 🔭 Cursando: Engenharia de Software - PUCRS 
 
 - 🚀 Estou aprendendo: Java, Python e Swift
 
-- 🔥 Frameworks e tecnologias: Spring,Flask e SwiftUi.
+- 🔥 Frameworks e tecnologias: Spring,Flask e SwiftUi
 
-- 🎯 Meu objetivo: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade.
+- 🎯 Meu objetivo: Me tornar um Dev experiente, tranformando ideias em projetos e sonhos em realidade
 
 - 📫 Contato: guilhermoh@gmail.com
 
